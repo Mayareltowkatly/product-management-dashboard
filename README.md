@@ -43,8 +43,10 @@ game-review/
 ```
 
 ## Live Demo
+https://mayareltowkatly.github.io/product-management-dashboard/
 
 ## GitHub Repository
+https://github.com/Mayareltowkatly/product-management-dashboard
 
 ## Author
 **Mayar ElTowkatly**
